@@ -25,6 +25,7 @@
     <modules>
         <module>juc</module>
         <module>java8</module>
+        <module>jvm</module>
     </modules>
 
 </project>
