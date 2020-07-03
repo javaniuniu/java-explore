@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="juc" />
         <module name="jvm" />
+        <module name="nio" />
         <module name="java8" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="java8" target="1.8" />
       <module name="juc" target="1.8" />
       <module name="jvm" target="1.8" />
+      <module name="nio" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
