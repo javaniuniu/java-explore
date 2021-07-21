@@ -27,6 +27,7 @@
         <module>java8</module>
         <module>jvm</module>
         <module>nio</module>
+        <module>reflect</module>
     </modules>
 
 </project>

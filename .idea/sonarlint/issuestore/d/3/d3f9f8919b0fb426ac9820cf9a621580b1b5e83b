@@ -1,0 +1,38 @@
+
+Q
+java:S3740J"/Provide the parametrized type for this generic.(öÅó¦üÿÿÿÿ8•ÚÚ½«/
+H
+java:S30119",This accessibility bypass should be removed.(ÙÒÚ8•ÚÚ½«/
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(†¦ïÜøÿÿÿÿ8Ş¡¹º«/
+U
+java:S1854!"9Remove this useless assignment to local variable "field".(Ä§Ú]8õô¼º«/
+c
+java:S1854#"ARemove this useless assignment to local variable "canonicalName".(¤¸‡Íùÿÿÿÿ8â—²¸«/
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(İÆ¾ÿÿÿÿÿ8Ñ÷Ã¸«/
+K
+java:S1481")Remove this unused "name" local variable.(İÆ¾ÿÿÿÿÿ8Ñ÷Ã¸«/
+T
+java:S1481#"2Remove this unused "canonicalName" local variable.(¤¸‡Íùÿÿÿÿ8â—²¸«/
+K
+java:S1481")Remove this unused "name" local variable.(†¦ïÜøÿÿÿÿ8Ş¡¹º«/
+`
+java:S1854$">Remove this useless assignment to local variable "aClassName".(„©ªïûÿÿÿÿ8·©¸«/
+g	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(»Şí™ıÿÿÿÿ8•ÚÚ½«/
+U
+java:S18746"3Remove this use of "newInstance"; it is deprecated.(ØÆ¹éıÿÿÿÿ8•ÚÚ½«/
+F
+java:S1481!"*Remove this unused "field" local variable.(Ä§Ú]8õô¼º«/
+\
+java:S1854K":Remove this useless assignment to local variable "aClass".(ß§Ùûÿÿÿÿ8•ÚÚ½«/
+b
+java:S2133B"@Remove this object instantiation and use "Person.class" instead.(²±š±şÿÿÿÿ8•ÚÚ½«/
+Q
+java:S1481$"/Remove this unused "aClassName" local variable.(„©ªïûÿÿÿÿ8·©¸«/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ğş­Ñùÿÿÿÿ8•ÚÚ½«/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(áç–‰8•ÚÚ½«/
+M
+java:S1481K"+Remove this unused "aClass" local variable.(ß§Ùûÿÿÿÿ8•ÚÚ½«/
+N
+java:S30118",This accessibility update should be removed.(ê¥ÍÔıÿÿÿÿ8ƒãß½«/
